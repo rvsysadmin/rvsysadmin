@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm RV 👋
 
-<!--
-**rvsysadmin/rvsysadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux Engineer with 4+ years of experience.
 
-Here are some ideas to get you started:
+## Skills
+- Linux / RHEL
+- Shell Scripting
+- Docker
+- Monitoring (Zabbix, Nagios)
+- Git & GitHub
+- DevOps Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Learning and building Linux & DevOps projects.
